@@ -20,6 +20,6 @@ end
   supports el, ">= 6.0"
 end
 
-depends "apt"
+depends "yum"
 depends "build-essential"
 depends "openssl"
